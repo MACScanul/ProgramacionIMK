@@ -259,7 +259,7 @@ int main()
                 printf("\n");
                 printf("toma una flor como recompensa 8(>.<)8 ❀\n");
                 printf("\n");
-                 printf("para salir...recoge tu flor y preciona enter...\n");
+                 printf("para salir...recoge tu flor y presiona enter...\n");
 
                 exit(1);
             }
