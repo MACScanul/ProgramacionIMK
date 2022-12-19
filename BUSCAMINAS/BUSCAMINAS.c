@@ -1,3 +1,4 @@
+//BUSCAMINAS DE JOANA SUAREZ Y MIGUEL CANUL (EQUIPO)
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
